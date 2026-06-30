@@ -1,0 +1,11 @@
+# Datos crudos pesados (descargar con src/download_data.py)
+data/raw/*.cdf
+data/processed/*.npz
+
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
