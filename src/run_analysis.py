@@ -7,6 +7,9 @@ Pipeline principal: reproduce las tres figuras de la tarea.
             figures/task3_spectrum_cuts.png  (diagnóstico, slide 26)
 
 Uso:  .venv/bin/python src/run_analysis.py
+
+Autor : Alonso Delfino Cervantes Flores
+Licencia: MIT (c) 2026 Alonso Delfino Cervantes Flores
 """
 import os, sys, json
 import numpy as np

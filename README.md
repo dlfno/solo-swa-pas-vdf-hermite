@@ -18,6 +18,9 @@
 ![Data](https://img.shields.io/badge/Datos-SOAR_(ESAC)-0b3d91?style=flat-square)
 ![Method](https://img.shields.io/badge/Método-Cuadratura_de_Gauss--Hermite-6f42c1?style=flat-square)
 ![Status](https://img.shields.io/badge/estado-completo-2ea44f?style=flat-square)
+![License](https://img.shields.io/badge/licencia-MIT-yellow?style=flat-square)
+
+**Autor:** Alonso Delfino Cervantes Flores
 
 </div>
 
@@ -194,8 +197,19 @@ Fuente: **[Solar Orbiter Archive (SOAR)](https://soar.esac.esa.int/soar/)**, ESA
 
 ---
 
+## 👤 Autor y licencia
+
+**Autor:** **Alonso Delfino Cervantes Flores**
+
+Distribuido bajo la **Licencia MIT** — © 2026 Alonso Delfino Cervantes Flores.
+Consulta el archivo [`LICENSE`](LICENSE) para los términos completos. Los datos
+provienen del **Solar Orbiter Archive (ESA)** y se rigen por su propia política de uso.
+
+---
+
 <div align="center">
 
 *Tarea de cátedra · Instituto de Geofísica, UNAM · Reproducción de la VDF de Solar Orbiter*
+**© 2026 Alonso Delfino Cervantes Flores**
 
 </div>

@@ -4,6 +4,9 @@ Configuración global del proyecto: constantes físicas, rutas y parámetros.
 Reproducción de la Función de Distribución de Velocidad (VDF) de protones
 observada por Solar Orbiter / SWA-PAS el 2022-03-08 14:45:22, siguiendo la
 nota de cátedra de B. Park (Instituto de Geofísica, UNAM).
+
+Autor : Alonso Delfino Cervantes Flores
+Licencia: MIT (c) 2026 Alonso Delfino Cervantes Flores
 """
 import os
 
